@@ -1,2 +1,2 @@
 # JogoForcaTurma
-Jogo de focar na turma ADS
+Jogo de forca na turma ADS
