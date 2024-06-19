@@ -9,4 +9,4 @@ complexidade,conforme.
 
 descobrir,defasagem,desalento,diplomata,democrata,divertido,destituir,dezesseis,discordar
 distraído,devolução,disfarçar,delegação,devastado,desonesto,dilapidar,desabafar,deposição
-dominação,denunciar,desejável,desbocado,devaneios,diabólico,despedida,desamparo,dilatação,descrença,desgastar,debandada,disjunção,desanimar,deliciosa,decrescer,dessagrar,desatacar
+dominação,denunciar,desejável,desbocado,devaneios,diabólico,despedida,desamparo,dilatação,descrença,desgastar,debandada,disjunção,desanimar,deliciosa,decrescer,dessagrar,desatacar.
