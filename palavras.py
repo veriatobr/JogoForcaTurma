@@ -1,4 +1,4 @@
-lista = ["amar","azul","acordado","amargura","assistir",apetecer,ausência,ascender,arrojado,aprender,alcançar,apêndice,atribuir,anarquia,amistoso,arretado,ajudante,atraente,apoteose,atrofiar,autônomo,adiantar,arrancar,afrontar,abestado,autópsia.
+lista = ["amar","azul","acordado","amargura","assistir","apetecer",ausência,ascender,arrojado,aprender,alcançar,apêndice,atribuir,anarquia,amistoso,arretado,ajudante,atraente,apoteose,atrofiar,autônomo,adiantar,arrancar,afrontar,abestado,autópsia.
 bizarro,bem,buscar,basculho,boçal,bastardo,bom,brado,bíblia,balbúrdia,brasileiro,burro,bruma,base,brega,bravo,bálsamo,bênção,bonito,bojo,barganha,beneficência,beldade,bondade,bola
 bajulador,belo,brasil,bolo,burocrático,burrice,bobo,bilíngue,bruços,bônus,biodiversidade
 cultura,confiança,como,conserto,circunstância,caos,consequência,casual,cinismo,cético,conveniência,compaixão,consonância,cordial,compartilhar,complexo,céu,clichê,critério,coragem,
